@@ -1,0 +1,117 @@
+.ui-widget-content {
+color:#FFDF00;
+} 
+.date-table {
+margin: 0;
+width: 100%;
+}
+legend {
+color: #fff;
+font-size: 15px;
+padding: 3px 5px;
+}
+.personal_inline div,
+.personal_inline label {
+display: inline;
+}
+
+.container-inline-date .date-padding{
+float:right;
+padding: 0;
+margin: 0;
+}
+.container-inline-date > .form-item {
+text-align: left;
+display: inline;
+}
+
+.form-item{
+padding: 0 0 5px 0;
+margin: 0 0 5px 0;
+}
+
+.date-zas,
+.apartdesc{
+background: none;
+border: 1px solid #1C1B1B;
+padding: 2px;
+margin: 3px 0;
+}
+
+
+.container-inline {
+margin: 0 0 5px 0;
+}
+
+
+.ui-dialog select {
+background: none;
+color: #fff;
+border: 1px solid #3A3835;
+}
+.ui-widget input,
+.ui-widget textarea{
+background:none;
+font-family: Verdana,Arial,sans-serif;
+color: #fff;
+border: 1px solid #3A3835;
+}
+.grippie {
+display: none;
+}
+table {
+width: 100%;
+border-collapse: separate;
+}
+.ui-dialog .form-submit{
+padding: 3px 10px;
+margin: 3px 10px;
+font-size: 14px;
+height: 22px;
+background: url(images/button.png) repeat-x 0 0;
+color: #000;
+border:none;
+cursor: pointer;
+-moz-border-radius: 10px; /* Firefox */
+  -webkit-border-radius: 10px; /* Safari, Chrome */
+  -khtml-border-radius: 10px; /* KHTML */
+  border-radius: 10px; /* CSS3 */
+}
+.ui-dialog .form-submit:hover {
+padding: 3px 10px;
+margin: 3px 10px;
+font-size: 14px;
+height: 22px;
+background: url(images/buttonhover.png) repeat-x 0 0;
+color: #000;
+border:none;
+cursor: pointer;
+-moz-border-radius: 10px; /* Firefox */
+  -webkit-border-radius: 10px; /* Safari, Chrome */
+  -khtml-border-radius: 10px; /* KHTML */
+  border-radius: 10px; /* CSS3 */
+}
+
+
+
+.admintable {
+border: 1px solid #ccc;
+}
+.booking-desc-wrap .book-img-wrap {
+width:199px;
+height:132px;
+float:left;
+}
+.kv-desc-small {width:250px;float:left;}
+.apartdesc{width:450px;}
+.popular-price .usd_value,
+.popular-price .rub_value {display:none;}
+#date_details input,
+#date_details label{display:inline-block;}
+.date-zas .form-item {margin:0;}
+.date-zas input,
+.date-zas label {
+font-size:11px;
+display: inline-block;
+}
+.personal_details {width:225px;}

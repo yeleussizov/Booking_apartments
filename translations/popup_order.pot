@@ -1,0 +1,217 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  popup_order.module: n/a
+#  popup_order.info: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-06-13 12:20+0600\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: popup_order.module:11
+msgid "Booking"
+msgstr ""
+
+#: popup_order.module:15
+msgid "Wait..."
+msgstr ""
+
+#: popup_order.module:49
+msgid "Surname"
+msgstr ""
+
+#: popup_order.module:56
+msgid "Name"
+msgstr ""
+
+#: popup_order.module:61
+msgid "Phone"
+msgstr ""
+
+#: popup_order.module:63
+msgid "E.g., 87015594434"
+msgstr ""
+
+#: popup_order.module:69
+msgid "Check-in date"
+msgstr ""
+
+#: popup_order.module:73;82
+msgid "Select a date"
+msgstr ""
+
+#: popup_order.module:78
+msgid "Check-out date"
+msgstr ""
+
+#: popup_order.module:87
+msgid "Check-in time"
+msgstr ""
+
+#: popup_order.module:97
+msgid "Number of guests"
+msgstr ""
+
+#: popup_order.module:100;115
+msgid "Select"
+msgstr ""
+
+#: popup_order.module:101;116
+msgid "1"
+msgstr ""
+
+#: popup_order.module:102;117
+msgid "2"
+msgstr ""
+
+#: popup_order.module:103;118
+msgid "3"
+msgstr ""
+
+#: popup_order.module:104;119
+msgid "4 and more"
+msgstr ""
+
+#: popup_order.module:112
+msgid "Number of children"
+msgstr ""
+
+#: popup_order.module:125
+msgid "Transfer service"
+msgstr ""
+
+#: popup_order.module:126
+msgid "Need"
+msgstr ""
+
+#: popup_order.module:126
+msgid "Not needed"
+msgstr ""
+
+#: popup_order.module:136
+msgid "Arriving from"
+msgstr ""
+
+#: popup_order.module:153
+msgid "Pich-up place"
+msgstr ""
+
+#: popup_order.module:163
+msgid "Train station"
+msgstr ""
+
+#: popup_order.module:164
+msgid "Airport"
+msgstr ""
+
+#: popup_order.module:176
+msgid "Flight number"
+msgstr ""
+
+#: popup_order.module:186;206
+msgid "Arrival time"
+msgstr ""
+
+#: popup_order.module:188;208
+msgid "Enter time"
+msgstr ""
+
+#: popup_order.module:197
+msgid "Train number"
+msgstr ""
+
+#: popup_order.module:233
+msgid "- Select -"
+msgstr ""
+
+#: popup_order.module:235
+msgid "ID apartment"
+msgstr ""
+
+#: popup_order.module:244
+msgid "Email"
+msgstr ""
+
+#: popup_order.module:246
+msgid "E-mail address"
+msgstr ""
+
+#: popup_order.module:251
+msgid "Additional information"
+msgstr ""
+
+#: popup_order.module:258
+msgid "Submit"
+msgstr ""
+
+#: popup_order.module:273
+msgid "Close"
+msgstr ""
+
+#: popup_order.module:309
+msgid "The email address does not appear to be valid."
+msgstr ""
+
+#: popup_order.module:317
+msgid "The phone number have at least 7 digits"
+msgstr ""
+
+#: popup_order.module:324
+msgid "The phone number can only have digits, parenthesis and dashes."
+msgstr ""
+
+#: popup_order.module:334
+msgid "Please enter a name and surname"
+msgstr ""
+
+#: popup_order.module:342
+msgid "Please select \"Transfer service\""
+msgstr ""
+
+#: popup_order.module:350
+msgid "Please select \"ID apartment\""
+msgstr ""
+
+#: popup_order.module:357
+msgid "It is successfully sent!"
+msgstr ""
+
+#: popup_order.module:364
+msgid "Error, please fill all fields correctly, this form not sent."
+msgstr ""
+
+#: popup_order.module:393
+msgid "Personal details"
+msgstr ""
+
+#: popup_order.module:399
+msgid "Date and time of arrival"
+msgstr ""
+
+#: popup_order.module:428
+msgid "Apartment"
+msgstr ""
+
+#: popup_order.module:432
+msgid "Contact"
+msgstr ""
+
+#: popup_order.info:0
+msgid "POPUP ORDER"
+msgstr ""
+
+#: popup_order.info:0
+msgid "Этот модуль позволяет напрямую на странице услуги написать администратору заявку на бронирование квартиры. Специально создано для Компании Мир Квартир. copyright SERIK YELEUSSIZOV email: s.yeleussizov@ya.ru"
+msgstr ""
+

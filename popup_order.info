@@ -1,0 +1,13 @@
+﻿; $Id$
+name = Бронирование квартиры
+description = Этот модуль позволяет напрямую на странице услуги написать администратору заявку на бронирование квартиры. Специально создано для Компании Мир Квартир. copyright SERIK YELEUSSIZOV email: s.yeleussizov@ya.ru
+
+core = 7.x
+
+files[] = popup_order.module
+
+
+
+dependencies[] = ctools
+
+
